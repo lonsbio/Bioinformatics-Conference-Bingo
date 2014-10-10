@@ -2,8 +2,8 @@
 
 | B                | I                       | N                                                       | G                                                   | O                    |  
 | :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                     | :-------------:      |  
-| placeholder text |     placeholder text              |        placeholder text                            |placeholder text  |    placeholder text       |  
-|placeholder text     |placeholder text  |          placeholder text                             |        placeholder text                                            |    placeholder text             |  
-| placeholder text        |   placeholder text             | <a href="http://bioinformatics.net.au/abic2014/"><img src="abic.png"></a> |                placeholder text                               |placeholder text  |  
+| Network Hairball |     placeholder text              |        placeholder text                            |placeholder text  |    placeholder text       |  
+| A new Bioinformatics Platform! |placeholder text  |          placeholder text                             |        placeholder text                                            |    placeholder text             |  
+| placeholder text        | Snoring senior researcher | <a href="http://bioinformatics.net.au/abic2014/"><img src="abic.png"></a> |                placeholder text                               |placeholder text  |  
 |  placeholder text    |   placeholder text       |        placeholder text               |        placeholder text  |    placeholder text         |  
 |   placeholder text    |   placeholder text    |                                placeholder text                 |                placeholder text                         |   placeholder text    |  
