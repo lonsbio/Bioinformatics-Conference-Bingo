@@ -2,7 +2,7 @@
 
 Forked from Data-Science-Conference-Bingo (original below), each conference has it's own branch:
 
-- [ABiC 204](https://github.com/lonsbio/Bioinformatics-Conference-Bingo/tree/abic14)
+- [ABiC 2014](https://github.com/lonsbio/Bioinformatics-Conference-Bingo/tree/abic14)
 
 
 ## Original
