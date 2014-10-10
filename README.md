@@ -1,4 +1,4 @@
-## Bioinforamtics Conference Bingo
+## Bioinformatics Conference Bingo
 
 Forked from Data-Science-Conference-Bingo (original below), each conference has it's own branch:
 
