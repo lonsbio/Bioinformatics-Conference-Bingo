@@ -5,5 +5,5 @@
 | |                  |        This bingo card                             |          |  
 |COMBINE   |  |                |        |                |  
 |         |               | <a href="http://www.abacbs.org/conference"><img src="abacbs.png"></a> |        |  |  
-|     |          |                    |      |             |  
+| misspelling ABACBS  | definition of systems biology |                    |      |             |  
 |       |      |    | #classiclovell  |     |  
