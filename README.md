@@ -3,7 +3,7 @@
 | B                | I                       | N                                                       | G                                                   | O                    |  
 | :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                     | :-------------:      |  
 | |                  |        This bingo card                             |          |  
-|   |  |                |        |                |  
-|         |               | <a href="http://www.abacbs.org/conference"><img src="abacbs.png"></a> |        |   |  
+|COMBINE   |  |                |        |                |  
+|         |               | <a href="http://www.abacbs.org/conference"><img src="abacbs.png"></a> |        |  |  
 |     |          |                    |      |             |  
-|       |      |    | David Lovell asking a question on relative expression  |     |  
+|       |      |    | David Lovell asking a <br>question on relative expression  |     |  
