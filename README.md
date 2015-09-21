@@ -6,4 +6,4 @@
 |COMBINE   |  |                |        |                |  
 |         |               | <a href="http://www.abacbs.org/conference"><img src="abacbs.png"></a> |        |  |  
 |     |          |                    |      |             |  
-|       |      |    | David Lovell asking a <br>question on relative expression  |     |  
+|       |      |    | #classiclovell  |     |  
