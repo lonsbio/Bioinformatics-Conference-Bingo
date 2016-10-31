@@ -2,8 +2,8 @@
 
 | B                | I                       | N              | G             | O                    |  
 | :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                     | :-------------:      |  
-| *placeholder* |   Excel chart/table               |        This bingo card                             |   Pokemon Go      |  Heatmap|
-|COMBINE   | *placeholder* |        Reference to ARC / NHMRC funding results       |   *placeholder*     |     *placeholder*           |  
+| circos |   Excel chart/table               |        This bingo card                             |   Pokemon Go      |  Heatmap|
+|COMBINE   | *placeholder* |        Reference to ARC / NHMRC funding results       |   "This is a busy slide"     |    Big Data           |  
 |  *placeholder*       |    *placeholder* | <a href="http://www.abacbs.org/conference"><img src="abacbs.png"></a> | *placeholder*       |Joke about the conference name  |  
-| k-mer    |     *placeholder*     |        *placeholder*            |   Network hairball   |      *placeholder*       |  
-|  *placeholder*     |  *placeholder*    |   Melboure Cup / Halloween reference | #classiclovell  |    p < 0.05 |  
+| k-mer    |     *placeholder*     |        QLD weather            |   Network hairball   |     "In the interst of time.."       |  
+|  p-values without error correction!    |  pie chart   |   Melboure Cup / Halloween reference | #classiclovell  |    p < 0.05 |  
